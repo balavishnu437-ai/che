@@ -16,7 +16,7 @@ if st.session_state.page == "home":
 
     st.markdown("### 👨‍🎓 Student Details")
     st.write("**Name:** Gonthina Mohith")
-    st.write("**Register No:**RA2511026050019")
+    st.write("**Register No:** RA2511026050019")
     st.write("**Class:** BTECH CSE AIML-A")
 
     st.markdown("---")
